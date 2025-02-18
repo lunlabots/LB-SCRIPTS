@@ -1,0 +1,2 @@
+local function functionToRunWhenTheGameFullyLoads() print(true) end while not game:IsLoaded() do task.wait() end functionToRunWhenTheGameFullyLoads()
+
